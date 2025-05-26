@@ -1,3 +1,4 @@
+# Replaced by NANDFixes
 **Bugfix for sailwind**
 
 Fixes items on boats getting stuck to other boats after boat-boat collisions.
